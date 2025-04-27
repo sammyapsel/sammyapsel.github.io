@@ -34,7 +34,7 @@ Passionate about tackling R&D challenges in biomedical optics, robotics, camera 
 
 ![Remote Acoustic Sensing(1)](/assets/img/remote_acoustic_sensing1.jpg)
 ![Remote Acoustic Sensing(2)](/assets/img/remote_acoustic_sensing2.jpg)
-![Remote Acoustic Sensing(3)](/assets/img/remote_acoustic_sensing3.jpg)
+![Remote Acoustic Sensing(3)](/assets/img/remote_acoustic_sensing3.png)
 
 
 ---
@@ -44,8 +44,8 @@ Passionate about tackling R&D challenges in biomedical optics, robotics, camera 
 - Optimized the model for accurate outdoor performance and real-world deployment.  
 **Technologies:** Python, OpenCV, TensorFlow, Deep Learning
 
-![Litter Detection Robot(1)](/assets/img/litter_detection_robot1.jpg)
-![Litter Detection Robot(12](/assets/img/litter_detection_robot2.jpg)
+![Litter Detection Robot(1)](/assets/img/litter_detection_robot1.png)
+![Litter Detection Robot(12](/assets/img/litter_detection_robot2.jpeg)
 
 ---
 
