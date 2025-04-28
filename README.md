@@ -2,22 +2,22 @@
 
 ## About Me
 
-With a B.Sc. and M.Sc. in Electrical Engineering, I specialize in computer vision, signal processing algorithms, and biomedical optics.  
-Passionate about tackling R&D challenges in biomedical optics, robotics, camera systems, and medtech. I combine strong technical skills with creative problem-solving and bring expertise in Python and MATLAB to develop innovative solutions that address real-world problems.
+With a B.Sc. and M.Sc. in Electrical Engineering, my expertise lies in computer vision, signal processing algorithms, machine learning and biomedical optics. I'm passionate about tackling R&D challenges in medtech, robotics and camera systems. I combine strong technical skills with creative problem-solving to develop innovative solutions for real-world problems.
 
 ---
 ## Contact info:
 
-✉️ sammyapsel@gmail.com  
+✉️ [sammyapsel@gmail.com](mailto:sammyapsel@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/sammyapsel/)
 
 ---
 
 ## Education
-- M.Sc., Electrical Engineering | Bar-Ilan University (_Dec 2024_)  
+- M.Sc. Electrical Engineering | Bar-Ilan University (_Dec 2024_)  
   **Thesis**: *Rolling Shutter Laser Speckle Acoustic Sensing*
----
-- B.Sc., Electrical Engineering | Technion - Israel Institute of Technology (_Aug 2022_)  
+
+  
+- B.Sc. Electrical Engineering | Technion - Israel Institute of Technology (_Aug 2022_)  
   **Relevant coursework**: Computer Vision, Statistical Algorithms in DSP, Machine Learning, Optics
 
 ## Work Experience
@@ -28,10 +28,13 @@ Passionate about tackling R&D challenges in biomedical optics, robotics, camera 
 - Increased testbench coverage for camera chip verification by 25%
 - Detected and resolved 20+ critical bugs, enhancing chip reliability
 
+* * *
+
 ## Projects
-### **MSc. Project : Remote Acoustic Sensing of Laser Speckle Patterns**
+### **M.Sc. Project : Remote Acoustic Sensing of Laser Speckle Patterns**
 - Developed a method to remotely extract biological acoustic signals (speech, lung sounds, heartbeats) up to 62.5 kHz from laser speckle patterns using a low-FPS rolling-shutter camera.
-- Improved SNR by 12.8 dB compared to previous techniques with enhanced filtering and optical design.  
+- Improved SNR by 12.8 dB compared to previous techniques with enhanced filtering and optical design.
+- [**Link**](https://www.ozanalab.com/) to optical and acoustical lab page  
 
 ![Remote Acoustic Sensing(1)](/assets/img/remote_acoustic_sensing1.jpg)
 ![Remote Acoustic Sensing(2)](/assets/img/remote_acoustic_sensing2.jpg)
@@ -57,7 +60,7 @@ Passionate about tackling R&D challenges in biomedical optics, robotics, camera 
 ![Foot Gesture Prosthetic(2)](/assets/img/foot_gesture_prosthetic2.jpg)
 
 ## **Talks & Presentations**
-- Rolling Shutter Laser Speckle Acoustic Sensing — SPIE Biophotonics Conference 2024
+- [Rolling-shutter laser speckle analysis in bio-photonics](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13006/130060U/Rolling-shutter-laser-speckle-analysis-in-bio-photonics/10.1117/12.3001702.short) — SPIE Biophotonics Conference 2024
 
 ## **Publications**
 1. **Apsel, S.**, Tziony, S., Zalevsky, Z., Yemini, M., & Ozana, N. (2025). Homodyne and Heterodyne Rolling Shutter Laser Speckle Acoustic Sensing in Bio-Photonics. *Optics Express* (_under review_).
