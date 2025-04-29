@@ -1,8 +1,8 @@
-# Electrical Engineer | R&D | DSP and AI
+# Electrical Engineer | R&D 
 
 ## About Me
 
-With a B.Sc. and M.Sc. in Electrical Engineering, my expertise lies in computer vision, signal processing algorithms, machine learning and biomedical optics. I'm passionate about tackling R&D challenges in medtech, robotics and camera systems. I combine strong technical skills with creative problem-solving to develop innovative solutions for real-world problems.
+With a B.Sc. and M.Sc. in Electrical Engineering, my expertise lies in computer vision algorithms, machine learning, data science and biomedical optics. I'm passionate about tackling R&D challenges in medtech, robotics and camera systems. I combine strong technical skills with creative problem-solving to develop innovative solutions for real-world problems.
 
 ---
 ## Contact info:
