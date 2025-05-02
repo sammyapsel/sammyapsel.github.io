@@ -5,7 +5,7 @@
 With a B.Sc. and M.Sc. in Electrical Engineering, my expertise lies in computer vision algorithms, machine learning, data science and biomedical optics. I'm passionate about tackling R&D challenges in medtech, robotics and camera systems. I combine strong technical skills with creative problem-solving to develop innovative solutions for real-world problems.
 
 ---
-## Contact info:
+## Contact info :
 
 ✉️ [sammyapsel@gmail.com](mailto:sammyapsel@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/sammyapsel/)
