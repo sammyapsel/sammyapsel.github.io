@@ -32,7 +32,8 @@ With a B.Sc. and M.Sc. in Electrical Engineering, my expertise lies in computer 
 
 ## Projects
 ### **M.Sc. Project : Remote Acoustic Sensing of Laser Speckle Patterns**
-- Developed a method to remotely extract biological acoustic signals (speech, lung sounds, heartbeats) up to 62.5 kHz from laser speckle patterns using a low-FPS rolling-shutter camera.
+- Developed a computer vision-based method utilizing image processing and cross-correlation algorithms to remotely extract biomedical acoustic signals
+(speech, lung sounds, heartbeats) up to 62.5 kHz from laser speckle patterns captured with a low-FPS rolling-shutter camera.
 - Improved SNR by 12.8 dB compared to previous techniques with enhanced filtering and optical design.
 - [**Link**](https://www.ozanalab.com/) to optical and acoustical lab page  
 
@@ -43,18 +44,21 @@ With a B.Sc. and M.Sc. in Electrical Engineering, my expertise lies in computer 
 
 ---
 
-### **YOLO-Based Autonomous Robot Litter Detection**
-- Built a real-time object detection system for an autonomous robot using a custom-trained YOLOv4 model on litter datasets.
-- Optimized the model for accurate outdoor performance and real-world deployment.  
+### **YOLO-Based Autonomous Litter Detection and Retrieval System**
+- Designed a real-time object detection system that employs deep learning and computer vision algorithms in Python for an autonomous litter collection
+robot deployed in diverse outdoor environments.
+- Achieved accurate litter detection by designing and deploying a customized YOLOv4 network on a tailored dataset, utilizing Docker for containerization
+to streamline the deployment process.
 
 ![Litter Detection Robot(1)](/assets/img/litter_detection_robot1.png)
 ![Litter Detection Robot(12](/assets/img/litter_detection_robot2.jpeg)
 
 ---
 
-### **Foot Gesture Recognition for Prosthetic Hand Control**
-- Created a real-time control system for a 3D-printed prosthetic bionic hand using two foot-mounted IMU sensors.
-- Implemented foot gesture recognition on a Raspberry Pi using classical machine learning classifier.  
+### **Foot Gesture Recognition for Controlling a 3D-Printed Prosthetic Hand**
+- Designed and implemented a Raspberry Pi-based system for real-time control of a bionic prosthetic hand, employing IMU sensors to detect foot gestures
+and leveraging machine learning and deep learning algorithms for accurate gesture recognition.
+- Applied digital signal processing (DSP) techniques and machine learning principles to analyze and classify sensor data.  
 
 ![Foot Gesture Prosthetic(1)](/assets/img/foot_gesture_prosthetic1.jpg)
 ![Foot Gesture Prosthetic(2)](/assets/img/foot_gesture_prosthetic2.jpg)
